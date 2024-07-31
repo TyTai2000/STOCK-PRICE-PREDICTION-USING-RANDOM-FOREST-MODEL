@@ -17,7 +17,7 @@ Historical stock price data for JNJ was collected from Yahoo Finance.
 
 ## Model Training and Evaluation
 - Used Random Forest Regressor for prediction.
-- Achieved a Mean Absolute Error (MAE) of 0.0113.
+- Achieved a Mean Absolute Error (MAE) of 0.013.
 
 ## Model Deployment
 - Saved the trained model using `joblib`.
